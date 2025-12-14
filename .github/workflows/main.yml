@@ -1,4 +1,4 @@
-            - name: Upload a Build Artifact
+name: BESTIP
   uses: actions/upload-artifact@v6.0.0
   with:
     # Artifact name

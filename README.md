@@ -1,3 +1,10 @@
+# V2.5版本，添加管理员登录参数，需要到CF worker环境变量里添加 ADMIN_PASSWORD，网页增加Token管理，登陆后可用
+<img width="1339" height="575" alt="图片" src="https://github.com/user-attachments/assets/9edcd160-85ca-4d85-9344-6d3699161300" />
+<img width="1598" height="517" alt="图片" src="https://github.com/user-attachments/assets/e32a4353-6954-40c7-b0d2-01860eace439" />
+<img width="1370" height="674" alt="图片" src="https://github.com/user-attachments/assets/4a727f2d-8eb6-4edb-b9a8-d5fe68fbb2b1" />
+
+
+
 # Cloudflare 优选IP 收集器
 由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~
 
@@ -25,11 +32,6 @@
 - **ITDog 集成**：支持导出 IP 列表到 ITDog 进行批量 TCPing 测试
 - **现代化界面**：简洁美观的 Web 界面，支持响应式设计
 - **实时排序**：测速完成后自动按延迟排序，快速找到最优 IP
-
-V2.5版本，添加管理员登录参数，需要到CF worker环境变量里添加 ADMIN_PASSWORD，网页增加Token管理，登陆后可用
-<img width="1339" height="575" alt="图片" src="https://github.com/user-attachments/assets/9edcd160-85ca-4d85-9344-6d3699161300" />
-<img width="1598" height="517" alt="图片" src="https://github.com/user-attachments/assets/e32a4353-6954-40c7-b0d2-01860eace439" />
-<img width="1370" height="674" alt="图片" src="https://github.com/user-attachments/assets/4a727f2d-8eb6-4edb-b9a8-d5fe68fbb2b1" />
 
 
 ## 🚀 快速开始
